@@ -4,6 +4,9 @@
 - [English](https://github.com/makazeu/WsaToolbox/blob/master/ReleaseNotes_enUS.md)
 - 中文（简体）
 
+## v2.1.8
+- 允许用户直接在 `文件传输` 页面安装 WSA 内的 APK 文件
+
 ## v2.1.7
 - 新增一个超链接按钮来查看更新日志
 
