@@ -4,6 +4,10 @@
 - [English](https://github.com/makazeu/WsaToolbox/blob/master/ReleaseNotes_enUS.md)
 - 中文（简体）
 
+## v2.1.9
+- 允许用户在 `APP 管理` 页面中授予 App 激活 VPN 的权限，这样就可以使用 `v2rayNG` 之类的代理软件了（功能位于 `更多` 下拉菜单中，由于框架的问题，二级菜单弹出略慢...）
+- 修正了部分台湾本土化用词用法 （感谢 YouRui Wu）
+
 ## v2.1.8
 - 允许用户直接在 `文件传输` 页面安装 WSA 内的 APK 文件
 

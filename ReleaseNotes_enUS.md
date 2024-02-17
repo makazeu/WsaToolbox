@@ -4,6 +4,9 @@
 - English
 - [中文（简体）](https://github.com/makazeu/WsaToolbox/blob/master/ReleaseNotes_zhHans.md)
 
+## v2.1.9
+- Allows users to grant permission to activate VPN for an App in `App Manager` page (under `More` button)
+
 ## v2.1.8
 - Allows users to install APK files from WSA directly on `File Transfer` page
 
